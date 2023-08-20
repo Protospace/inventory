@@ -1,0 +1,13 @@
+{
+  "name": "protospace-inventory",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+  },
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+  }
+}

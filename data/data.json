@@ -1,0 +1,2396 @@
+[
+  {
+    "type": [
+      "3d printer"
+    ],
+    "model": "ORD Bot Hadron",
+    "serialNumber": "",
+    "arrivedAt": "2014-10-29",
+    "location": "3d printer room",
+    "certification": [
+      249
+    ],
+    "id": 2,
+    "origin": "Alan Ferguson",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "3d printer"
+    ],
+    "model": "PrusaMD",
+    "serialNumber": "",
+    "arrivedAt": "2016-05-13",
+    "location": "3d printer room",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 3,
+    "origin": "Doug C / PrusaMD",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "laser cutter"
+    ],
+    "model": "Rabbit Laser USA RL-80-1290 (where RL is the factory code, 80 is the original laser power in watts, and 1290 represents the bed size (1200 x 900 mm))",
+    "serialNumber": "",
+    "arrivedAt": "2012-02-01",
+    "location": "Bay 108, near the door to the front rooms",
+    "certification": [
+      247,
+      249
+    ],
+    "id": 6,
+    "origin": "Brian Queen",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "floor jack"
+    ],
+    "model": "Certified",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "automotive bay",
+    "certification": null,
+    "id": 8,
+    "origin": "Tremaine",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "trolly jack",
+      "axle stand kit"
+    ],
+    "model": "Certified",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "automotive bay",
+    "certification": null,
+    "id": 9,
+    "origin": "Travis",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "id": 11,
+    "type": [
+      "socket set"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2012-11-25",
+    "location": "automotive bay",
+    "certification": null,
+    "origin": "Donated by Ben Reed",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "oxygen concentrator"
+    ],
+    "model": "OGSI OG-15",
+    "serialNumber": "",
+    "arrivedAt": "2013-05-10",
+    "location": "sewing room",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 12,
+    "origin": "Donated by Ryan Turner",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "capacitance decade box"
+    ],
+    "model": "Servomex Controls Decade Capacitor Type B",
+    "serialNumber": "",
+    "arrivedAt": "2014-10-29",
+    "location": "electronics area",
+    "certification": [
+      249
+    ],
+    "id": 15,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "guests"
+    ]
+  },
+  {
+    "type": [
+      "function generator"
+    ],
+    "model": "DIY",
+    "serialNumber": "N/A",
+    "arrivedAt": "2013-05-13",
+    "location": "electronics area",
+    "certification": [
+      249
+    ],
+    "id": 16,
+    "origin": "donated by John Warga",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "heat gun"
+    ],
+    "model": "Powerfist 8259210",
+    "serialNumber": "",
+    "arrivedAt": "2013-05-18",
+    "location": "East wall cabinets",
+    "certification": null,
+    "id": 18,
+    "origin": "donated by Ben Reed",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "multimeter"
+    ],
+    "model": "pro.point",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 20,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "oscilloscope"
+    ],
+    "model": "Tektronix 2225",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "electronics area",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 23,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "oscilloscope",
+      "PC"
+    ],
+    "model": "Syscomp DSO-101",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "electronics area",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 25,
+    "origin": "",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "power supply"
+    ],
+    "model": "GQ-A305D",
+    "serialNumber": "",
+    "arrivedAt": "2013-08-27",
+    "location": "electronics area",
+    "certification": [
+      249
+    ],
+    "id": 26,
+    "origin": "Travis/Codohundo",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "power supply"
+    ],
+    "model": "Tenma 72-7245",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "electronics area",
+    "certification": [
+      249
+    ],
+    "id": 28,
+    "origin": "abandoned by Ian Hodgson",
+    "legalStatus": "protospace",
+    "note": "Dual DC",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "soldering",
+      "hot air"
+    ],
+    "model": "GQ 5200 SMD Rework Soldering Station",
+    "serialNumber": "",
+    "arrivedAt": "2013-05-05",
+    "location": "electronics area",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 30,
+    "origin": "Donated by purchase: Wes, Wil, Travis, Mike M, Peter, Shannon, Jorgen, Daryl, & James",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "solder fume extractor"
+    ],
+    "model": "Metcal",
+    "serialNumber": "",
+    "arrivedAt": "2013-04-15",
+    "location": "electronics area",
+    "certification": null,
+    "id": 31,
+    "origin": "Robb",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "waveform generator"
+    ],
+    "model": "Syscomp WGM-101",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "electronics area",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 33,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "waveform monitor"
+    ],
+    "model": "Tektronix 1730",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "electronics area",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 34,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "angle grinder"
+    ],
+    "model": "DeWalt",
+    "serialNumber": "",
+    "arrivedAt": "2014-10-30",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 35,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "metal bandsaw"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2015-01-01",
+    "location": "metal shop",
+    "certification": [
+      249,
+      "demo"
+    ],
+    "id": 37,
+    "origin": "Donated by Nick Brouillard w/o agreement, but discussed with a director",
+    "legalStatus": "protospace",
+    "note": "horizontal",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "bench grinder"
+    ],
+    "model": "Powerfist",
+    "serialNumber": "283205-00P",
+    "arrivedAt": "2013-01-01",
+    "location": "metal shop",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 39,
+    "origin": "Donated by Tremaine",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "bench grinder"
+    ],
+    "model": "Trademaster PR14210",
+    "serialNumber": "0003714",
+    "arrivedAt": "2014-10-30",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 40,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "drill press"
+    ],
+    "model": "Mastercraft 10\" Drill Press with Laser",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "metal shop",
+    "certification": [
+      249
+    ],
+    "id": 42,
+    "origin": "Donated by Algenon",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "foundry furnace"
+    ],
+    "model": "N/A",
+    "serialNumber": "",
+    "arrivedAt": "2016-09-17",
+    "location": "Under the Bay 108 stairs",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 45,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "Use outdoors only",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "metal lathe"
+    ],
+    "model": "Challenger 1660G (aka Birmingham LUX 1660G or YCL-1660)",
+    "serialNumber": "",
+    "arrivedAt": "2015-12-22",
+    "location": "metal shop",
+    "certification": [
+      281,
+      249
+    ],
+    "id": 46,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "mini lathe"
+    ],
+    "model": "Taig Microlathe II",
+    "serialNumber": "DUnn0",
+    "arrivedAt": "2014-09-16",
+    "location": "On the shelf above the welding table",
+    "certification": [
+      249,
+      "demo"
+    ],
+    "id": 47,
+    "origin": "Edgar Yajure",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "mill",
+      "machine"
+    ],
+    "model": "ACRA AM4V",
+    "serialNumber": "",
+    "arrivedAt": "2015-12-22",
+    "location": "metal shop",
+    "certification": [
+      283,
+      "demo",
+      249
+    ],
+    "id": 48,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "CNC",
+      "mill"
+    ],
+    "model": "Tormach PCNC 1100 Personal CNC Mill Series 2",
+    "serialNumber": "231 11-2006",
+    "arrivedAt": "2023-01-01",
+    "location": "metal shop",
+    "certification": [
+      249,
+      281,
+      245,
+      253,
+      259
+    ],
+    "id": 49,
+    "origin": "Bought for Protospace by a group of members",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "plasma cutter"
+    ],
+    "model": "Powercut 1500",
+    "serialNumber": "",
+    "arrivedAt": "2012-01-01",
+    "location": "metal shop",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 51,
+    "origin": "Donated by William",
+    "legalStatus": "protospace",
+    "note": "bring your own torch insert",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "plasma cutter"
+    ],
+    "model": "Miller Spectrum 375",
+    "serialNumber": "",
+    "arrivedAt": "2012-07-01",
+    "location": "metal shop",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 52,
+    "origin": "Donated by William",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "metal",
+      "shear"
+    ],
+    "model": "Magnum",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 53,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "welding",
+      "magnets"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 56,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "bandsaw"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "wood shop",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 57,
+    "origin": "Donated by Jim, Travis Dan, Mike auction groupbuy",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "clamps"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 59,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "drill",
+      "handheld",
+      "corded",
+      "black"
+    ],
+    "model": "Jobmate",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 61,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "drill, hand, corded"
+    ],
+    "model": "Ryobi dark blue",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 62,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "drill, hand, cordless"
+    ],
+    "model": "DeWalt",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 67,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "drill",
+      "handheld",
+      "power",
+      "corded"
+    ],
+    "model": "Makita DP3720",
+    "serialNumber": "76998 87-4",
+    "arrivedAt": "2012-12-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 68,
+    "origin": "Donated by Peter",
+    "legalStatus": "protospace",
+    "note": "10mm, needs chuck key, see Repair Notes",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "drill press"
+    ],
+    "model": "Jobmate 8\"",
+    "serialNumber": "",
+    "arrivedAt": "2010-10-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 69,
+    "origin": "Thomas L",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "jigsaw",
+      "corded"
+    ],
+    "model": "Black & Decker",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 70,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "jigsaw"
+    ],
+    "model": "Skil",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 72,
+    "origin": "Travis",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "nailer",
+      "pneumatic"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 75,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "2-in-1",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "plate joiner"
+    ],
+    "model": "Porter Cable Model 557, type 2",
+    "serialNumber": "149508 A1070",
+    "arrivedAt": "2013-01-22",
+    "location": "\"in the corner\"",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 76,
+    "origin": "Peter Carless",
+    "legalStatus": "loan",
+    "note": "Biscuit Cutter",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "rotary",
+      "power"
+    ],
+    "model": "Mastercraft",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 78,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "cordless",
+      "rotary"
+    ],
+    "model": "Dremel",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 79,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "belt sander"
+    ],
+    "model": "Makita 9402",
+    "serialNumber": "7490E",
+    "arrivedAt": "2012-11-25",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 83,
+    "origin": "Donated by Wes",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "disc–belt sander"
+    ],
+    "model": "Dremel 730",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "metal shop",
+    "certification": [
+      249
+    ],
+    "id": 84,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "sander mouse"
+    ],
+    "model": "Ryobi",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 85,
+    "origin": "Donated by Kan",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "orbital sander"
+    ],
+    "model": "Black & Decker Deluxe",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 88,
+    "origin": "Donated by Kan",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "scroll saw"
+    ],
+    "model": "Dremel",
+    "serialNumber": "TUW4",
+    "arrivedAt": "2013-01-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 89,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "table saw",
+      "power"
+    ],
+    "model": "Craftex CX201",
+    "serialNumber": "120043-75",
+    "arrivedAt": "2012-09-01",
+    "location": "wood shop",
+    "certification": [
+      261,
+      249
+    ],
+    "id": 91,
+    "origin": "Donated by Ben Reed",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "thickness planer"
+    ],
+    "model": "Ryobi AP1301",
+    "serialNumber": "BA073940500",
+    "arrivedAt": "2013-01-01",
+    "location": "wood shop",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 92,
+    "origin": "Travis",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "sawdust vacuum"
+    ],
+    "model": "Craftex CX404",
+    "serialNumber": "",
+    "arrivedAt": "2012-09-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 93,
+    "origin": "Ben Reed",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "woodworks vice"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2012-12-04",
+    "location": "wood shop",
+    "certification": null,
+    "id": 94,
+    "origin": "Wes",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "vise",
+      "wood"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 95,
+    "origin": "Travis",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "inspection mirror"
+    ],
+    "model": "Princess Auto / Powerfist 2970229",
+    "serialNumber": "N/A",
+    "arrivedAt": "2016-02-17",
+    "location": "Bay 108, on the shelf beside the bay printer",
+    "certification": null,
+    "id": 97,
+    "origin": "Ian Oliver",
+    "legalStatus": "loan",
+    "note": "18\" gooseneck; to become donation",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "magnifier lamp"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 98,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "large, with lid",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "magnifier lamp"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 99,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "large, w/o lid",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "magnifier lamp"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 100,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "small w/ lid",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "measuring tape",
+      "handheld"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 101,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "a bunch of them",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "ruler"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 102,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "a bunch of them",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "square"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 103,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "a bunch of them",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "thermometer",
+      "infrared"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 104,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "drum sander"
+    ],
+    "model": "General International 15-250 M1",
+    "serialNumber": "382107",
+    "arrivedAt": "2017-03-31",
+    "location": "wood shop",
+    "certification": [
+      401,
+      249
+    ],
+    "id": 106,
+    "origin": "Joseph Dahan",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "laser cutter",
+      "CNC"
+    ],
+    "model": "Trotec Speedy 300",
+    "serialNumber": "S3-4699",
+    "arrivedAt": "2016-12-01",
+    "location": "Bay 108, near the door to the front rooms",
+    "certification": [
+      247,
+      321,
+      249
+    ],
+    "id": 107,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "id": 108,
+    "serialNumber": "2052111",
+    "type": [
+      "planer",
+      "molder"
+    ],
+    "model": "Jet JPM-13CS",
+    "arrivedAt": "2017-04-17",
+    "location": "wood shop",
+    "certification": [
+      401,
+      249
+    ],
+    "origin": "Joseph Dahan",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "air compressor"
+    ],
+    "model": "MAXair Premium",
+    "serialNumber": "",
+    "arrivedAt": "2015-12-22",
+    "location": "Bay 110, at the back, by the door, in the corner",
+    "certification": [
+      249
+    ],
+    "id": 111,
+    "origin": "Donation",
+    "legalStatus": "protospace",
+    "note": "80 gallon",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "air compressor"
+    ],
+    "model": "Fiac Airblok Series Compact 106",
+    "serialNumber": "",
+    "arrivedAt": "2015-12-01",
+    "location": "metal shop",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 112,
+    "origin": "Donated by William / STARS",
+    "legalStatus": "protospace",
+    "note": "gauges are semi-broken (repaired 2013-03-28, checked 2015-12-15)",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "engraver"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2013-01-01",
+    "location": "storage",
+    "certification": [
+      249
+    ],
+    "id": 115,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "hand truck",
+      "handheld",
+      "metal",
+      "red"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 116,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "Handheld hot-wire foam cutter",
+      "handheld"
+    ],
+    "model": "Woodland Scenics HOTWRFMCUTR",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "Under the stairs in Bay 108, all the way back in the corner on the first shelf from the floor",
+    "certification": [
+      249
+    ],
+    "id": 117,
+    "origin": "Donation",
+    "legalStatus": "protospace",
+    "note": "needs new wire",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "domestic sewing machine",
+      "handheld"
+    ],
+    "model": "Singer 1802",
+    "serialNumber": "",
+    "arrivedAt": "2017-05-19",
+    "location": "sewing room",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 120,
+    "origin": "donation",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "hydraulic press"
+    ],
+    "model": "Princess Auto Powerfist?",
+    "serialNumber": "",
+    "arrivedAt": "2017-10-01",
+    "location": "metal shop, under the high racking on the west side",
+    "certification": [
+      249,
+      "demo"
+    ],
+    "id": 121,
+    "origin": "Donated by Jeff Boyd",
+    "legalStatus": "protospace",
+    "note": "50 ton",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "tile work surfaces"
+    ],
+    "model": "marble, 12\" square",
+    "serialNumber": "N/A",
+    "arrivedAt": "2017-12-01",
+    "location": "electronics area",
+    "certification": null,
+    "id": 122,
+    "origin": "Donated by Ian Oliver",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "needs help",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "tile work surfaces"
+    ],
+    "model": "ceramic, 6\" square",
+    "serialNumber": "N/A",
+    "arrivedAt": "2017-12-01",
+    "location": "electronics area",
+    "certification": null,
+    "id": 123,
+    "origin": "Donated by Ian Oliver",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "needs help",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "router table"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2019-01-19",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 124,
+    "origin": "Jeff",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "oil can"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 127,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "painting tools"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 128,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "pinball machine"
+    ],
+    "model": "Williams Road Kings",
+    "serialNumber": "",
+    "arrivedAt": "2012-01-01",
+    "location": "Next to the large laser cutter",
+    "certification": null,
+    "id": 129,
+    "origin": "Frollard",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "sandblasting cabinet"
+    ],
+    "model": "https://www.princessauto.com/en/detail/floor-model-abrasive-blasting-cabinet/A-p8046492e",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 130,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "guests"
+    ]
+  },
+  {
+    "type": [
+      "screwdriver magnetizer/demagnetizer"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "",
+    "certification": null,
+    "id": 131,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "shop vacuum"
+    ],
+    "model": "WD06350",
+    "serialNumber": "08102 R 0133",
+    "arrivedAt": "2013-01-01",
+    "location": "Bay/storage",
+    "certification": null,
+    "id": 132,
+    "origin": "Travis",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "staple gun"
+    ],
+    "model": "Arrow T-18",
+    "serialNumber": "",
+    "arrivedAt": "2019-02-01",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 133,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "vacuum cart"
+    ],
+    "model": "DIY",
+    "serialNumber": "N/A",
+    "arrivedAt": "2014-10-29",
+    "location": "Laser cutter area",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 134,
+    "origin": "Janet M",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "vacuum cleaner",
+      "portable"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2014-10-29",
+    "location": "",
+    "certification": null,
+    "id": 136,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "vacuum pump"
+    ],
+    "model": "Edwards SpeediVac ED200",
+    "serialNumber": "",
+    "arrivedAt": "2014-10-30",
+    "location": "",
+    "certification": [
+      249
+    ],
+    "id": 137,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "pocket hole jig"
+    ],
+    "model": "Kreg K3",
+    "serialNumber": "",
+    "arrivedAt": "2019-10-01",
+    "location": "Woodshop shelf on east wall with other plastic carrying cases",
+    "certification": [
+      249
+    ],
+    "id": 140,
+    "origin": "Nick Boers",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "mini CNC",
+      "CNC"
+    ],
+    "model": "TD 3040",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "laser storage",
+    "certification": [
+      427,
+      249
+    ],
+    "id": 141,
+    "origin": "Configured by Andy",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "wood",
+      "CNC"
+    ],
+    "model": "LongMill Wood CNC",
+    "serialNumber": "N/A",
+    "arrivedAt": "2021-10-28",
+    "location": "wood shop",
+    "certification": [
+      283,
+      249
+    ],
+    "id": 143,
+    "origin": "",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "embroidery",
+      "CNC"
+    ],
+    "model": "Tajima TEJT II-C NEO 1501",
+    "serialNumber": "3127",
+    "arrivedAt": "2021-02-09",
+    "location": "sewing room",
+    "certification": [
+      447,
+      249
+    ],
+    "id": 144,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "monitor",
+      "touchscreen"
+    ],
+    "model": "SHARP",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "welcome room",
+    "certification": null,
+    "id": 145,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "sewing",
+      "machine"
+    ],
+    "model": "Singer 211G155 Industrial Sewing Machine",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "sewing room",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 147,
+    "origin": "Vince Klassen",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "vinyl cutter"
+    ],
+    "model": "Graphtec FC8000-75 Cutting Pro",
+    "serialNumber": "a80630144",
+    "arrivedAt": "2020-11-15",
+    "location": "welcome room",
+    "certification": [
+      446,
+      249
+    ],
+    "id": 148,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "guests"
+    ]
+  },
+  {
+    "type": [
+      "drill press",
+      "floor mounted",
+      "variable speed"
+    ],
+    "model": "",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "wood shop",
+    "certification": [
+      249
+    ],
+    "id": 149,
+    "origin": "Eric Coyle",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "sewing",
+      "machine"
+    ],
+    "model": "Singer Futura CE-250 Sewing and Embroidery machine",
+    "serialNumber": "072A227C170133",
+    "arrivedAt": "2023-01-01",
+    "location": "sewing room",
+    "certification": [
+      249
+    ],
+    "id": 150,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "guests"
+    ]
+  },
+  {
+    "type": [
+      "box brake",
+      "pan brake"
+    ],
+    "model": "Magnum W1.0X610A(24\")",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "metal shop",
+    "certification": [
+      249
+    ],
+    "id": 151,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "metal",
+      "brake",
+      "shear",
+      "roller"
+    ],
+    "model": "Magnum 52\"",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "metal shop",
+    "certification": [
+      249
+    ],
+    "id": 152,
+    "origin": "John Warga",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "wood",
+      "CNC",
+      "router"
+    ],
+    "model": "Precix Wood CNC router",
+    "serialNumber": "",
+    "arrivedAt": "2020-03-26",
+    "location": "wood shop",
+    "certification": [
+      428,
+      249
+    ],
+    "id": 153,
+    "origin": "",
+    "legalStatus": "loan",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "heat press"
+    ],
+    "model": "Insta 158 MS158",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "sewing room",
+    "certification": [
+      249
+    ],
+    "id": 155,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "guests"
+    ]
+  },
+  {
+    "type": [
+      "sewing",
+      "machine"
+    ],
+    "model": "Janome HD-1000",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "sewing room",
+    "certification": [
+      249
+    ],
+    "id": 156,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "serger"
+    ],
+    "model": "Singer Ultralock 14U34B",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "sewing room",
+    "certification": [
+      249
+    ],
+    "id": 157,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "guests"
+    ]
+  },
+  {
+    "type": [
+      "serger"
+    ],
+    "model": "Janome MyLock 634D",
+    "serialNumber": "788108228",
+    "arrivedAt": "2023-01-01",
+    "location": "sewing room",
+    "certification": [
+      249
+    ],
+    "id": 158,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "guests"
+    ]
+  },
+  {
+    "type": [
+      "resin 3d printer"
+    ],
+    "model": "Anycubic Photon 5.5",
+    "serialNumber": "00340019-30384717-36333332-71",
+    "arrivedAt": "2023-01-01",
+    "location": "3d printer room",
+    "certification": [
+      249
+    ],
+    "id": 159,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "wash and cure",
+      "machine"
+    ],
+    "model": "Anycubic",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "3d printer room",
+    "certification": [
+      249
+    ],
+    "id": 160,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "TBD",
+    "permissions": [
+      "members",
+      "guests"
+    ]
+  },
+  {
+    "type": [
+      "scotch laminator"
+    ],
+    "model": "TL902",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "Classroom window filing cabinet top drawer",
+    "certification": [
+      249
+    ],
+    "id": 161,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "bike repair stand"
+    ],
+    "model": "Feedback Sport",
+    "serialNumber": "",
+    "arrivedAt": "2022-04-16",
+    "location": "automotive bay",
+    "certification": null,
+    "id": 162,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "pipe bender"
+    ],
+    "model": "Power Fist 12 Ton",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "metal shop",
+    "certification": [
+      249
+    ],
+    "id": 163,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "metal detector",
+      "handheld"
+    ],
+    "model": "8603060",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "wood shop",
+    "certification": null,
+    "id": 164,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "all"
+    ]
+  },
+  {
+    "type": [
+      "band saw"
+    ],
+    "model": "Westward UE-712",
+    "serialNumber": "",
+    "arrivedAt": "2022-10-22",
+    "location": "Between metal bay and welding area",
+    "certification": [
+      249
+    ],
+    "id": 165,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "Horizontal-Vertical",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "printer"
+    ],
+    "model": "HP DesignJet T1200",
+    "serialNumber": "",
+    "arrivedAt": "2022-11-06",
+    "location": "classrooom",
+    "certification": [
+      249
+    ],
+    "id": 166,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "oscilloscope"
+    ],
+    "model": "Siglent SDS1104X-E",
+    "serialNumber": "",
+    "arrivedAt": "2022-05-01",
+    "location": "electronics area",
+    "certification": [
+      "demo",
+      249
+    ],
+    "id": 167,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "planer"
+    ],
+    "model": "King KC816",
+    "serialNumber": "932438",
+    "arrivedAt": "2023-01-01",
+    "location": "wood shop",
+    "certification": [
+      401,
+      249
+    ],
+    "id": 168,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "resin 3d printer"
+    ],
+    "model": "ELEGOO Saturn",
+    "serialNumber": "",
+    "arrivedAt": "2022-12-01",
+    "location": "3d printer room",
+    "certification": [
+      249
+    ],
+    "id": 170,
+    "origin": "Donated by Brian Queen",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  },
+  {
+    "type": [
+      "wood",
+      "lathe"
+    ],
+    "model": "JET JWL-1236",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "wood shop",
+    "certification": [
+      401,
+      249
+    ],
+    "id": 171,
+    "origin": "",
+    "legalStatus": "TBD",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members",
+      "probationary"
+    ]
+  },
+  {
+    "type": [
+      "table saw"
+    ],
+    "model": "SawStop",
+    "serialNumber": "",
+    "arrivedAt": "2023-01-01",
+    "location": "wood shop",
+    "certification": [
+      463,
+      249
+    ],
+    "id": 172,
+    "origin": "",
+    "legalStatus": "protospace",
+    "note": "",
+    "status": "works",
+    "permissions": [
+      "members"
+    ]
+  }
+]
